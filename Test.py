@@ -1,8 +1,8 @@
 import time
 from telethon.sync import TelegramClient
 
-api_id = '19519120'
-api_hash = '7c54f2efd61c08304478907a28547bc3'
+api_id = ''
+api_hash = ''
 
 
 def send_message(text_message, time_sleep):
